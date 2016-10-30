@@ -40,6 +40,5 @@ DNK2$YrSx <- paste(DNK2$Year, DNK2$Sex, sep="-")
 
 save(DNK2, file="HMD_DNK_lt.Rdata")
 
-library(rsconnect)
-rsconnect::deployApp('D:\\DemoEco')
+
 
