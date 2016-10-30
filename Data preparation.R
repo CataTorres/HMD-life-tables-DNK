@@ -3,10 +3,10 @@
 library(HMDHFDplus)
 
 DNKf <- readHMDweb(CNTRY="DNK", item="fltper_1x1",
-                  username="catalina_tc@hotmail.com", password = "bgk383")
+                  username="****", password = "****")
 
 DNKm <- readHMDweb(CNTRY="DNK", item="mltper_1x1",
-                   username="catalina_tc@hotmail.com", password = "bgk383")
+                   username="****", password = "****")
 
 library(dplyr)
 
